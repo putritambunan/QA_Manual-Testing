@@ -5,20 +5,21 @@ Internal web application Formulir Log Insiden Divisi IT PT Surveyor Indonesia, u
 URL: http://10.3.1.103:8001 
 
 This repository contains QA manual testing artifacts:
-Test Plan
-Test Case
-Bug Report
+- Test Plan
+- Test Case
+- Bug Report
 
 **Scope**
+
 CRUD Feature
 - Create data insiden
 - View data insiden
 - Update/Edit data insiden
 - Delete data insiden
 
-  **Tools**
+**Tools**
   - Microsoft Word
   - Microsoft Excel
 
-  **Author**
+**Author**
   Putri Valentina Tambunan
