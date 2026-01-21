@@ -18,8 +18,9 @@ CRUD Feature
 - Delete data insiden
 
 **Tools**
-  - Microsoft Word
+  - Google Sheet
   - Microsoft Excel
+  - Notepad
 
 **Author**
   Putri Valentina Tambunan
