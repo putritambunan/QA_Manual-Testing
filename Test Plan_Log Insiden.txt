@@ -1,0 +1,23 @@
+# Test Plan – Website Log Insiden
+
+## Objective
+Pengujian dilakukan untuk memastikan fitur CRUD pada website Log Insiden berjalan dengan baik dan sesuai harapan.
+
+## Scope
+- Fitur Tambah Insiden
+- Fitur Lihat / Detail Insiden
+- Fitur Update Insiden
+- Fitur Delete Insiden
+
+## Test Approach
+- Manual Testing
+- Black Box Testing
+
+## Test Environment
+- OS: Windows 10
+- Browser: Google Chrome
+
+## Deliverables
+- Test Scenario
+- Test Case
+- Bug Report
