@@ -1,0 +1,16 @@
+Test Scenario - Website Log Insiden
+
+# Test Scenario – Tambah Insiden
+
+TS-01: User menambahkan insiden dengan data lengkap
+TS-02: User menambahkan insiden dengan data tidak lengkap
+TS-03: User menambahkan insiden dengan evidence bukan JPG
+TS-04: User menambahkan insiden tanpa mengupload evidence
+
+# Test Scenario – Edit Insiden
+TS-05: User mengedit insiden dengan data yang lengkap dan valid.
+TS-06: User mengedit insiden dengan bidang wajib yang dibiarkan kosong
+
+# Test Scenario – Delete Insiden
+TS-07: User menghapus insiden dari daftar Log Insiden
+
